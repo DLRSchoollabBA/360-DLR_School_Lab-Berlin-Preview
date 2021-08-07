@@ -1,0 +1,20 @@
+#: locale=de
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Unbenannt 10
+
+## Media
+
+### Titel
+video_5A721025_57D6_2E57_41BB_8B82F0FABA60.label = Noctis_Labyrinthus,_anaglyph_image_ESA211204_l
+video_A4EE1AB5_B751_9CD5_41E2_1EC8B1BFDA33.label = Fallturm_Screen
+video_BBF43713_B6B1_75AD_41D9_0907C07B1B39.label = Wilkommen360DLR_School_Lab
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_4AA3FCF8_5F5F_0B6C_41B0_585A5A0D8795.toolTip = Rollo öffnen!
