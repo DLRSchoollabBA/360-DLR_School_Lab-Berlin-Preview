@@ -5,14 +5,14 @@
 ### Beschreibung
 
 ### Titel
-tour.name = Unbenannt 10
+tour.name = DLR-School_Lab Online
 
 ## Media
 
 ### Titel
 video_5A721025_57D6_2E57_41BB_8B82F0FABA60.label = Noctis_Labyrinthus,_anaglyph_image_ESA211204_l
+video_6B319CE4_7BC4_BF52_41D9_AC715A7D3372.label = Willkommen360DLR_School_Lab
 video_A4EE1AB5_B751_9CD5_41E2_1EC8B1BFDA33.label = Fallturm_Screen
-video_BBF43713_B6B1_75AD_41D9_0907C07B1B39.label = Wilkommen360DLR_School_Lab
 
 ## Hotspot
 
