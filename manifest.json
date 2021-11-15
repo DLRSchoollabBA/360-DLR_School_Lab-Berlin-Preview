@@ -36,9 +36,9 @@
    "src": "misc/icon16.png"
   }
  ],
- "name": "DLR_School_Lab-Online",
  "background_color": "#FFFFFF",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm"
+ "start_url": "index.htm",
+ "name": "DLR_School_Lab-Online",
+ "theme_color": "#FFFFFF"
 }
