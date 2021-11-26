@@ -91,6 +91,7 @@ Container_23016B2A_3007_C73B_41B1_68718B2865FA.toolTip = Kleine Teilchen und gro
 Container_48558720_5B9F_503F_41CD_03F91D46C777.toolTip = Kleine Teilchen und große Planeten
 Container_511F2239_48A5_6F50_4199_8A045C8896F0.toolTip = Kleine Teilchen und große Planeten
 IconButton_48565725_5B9F_5001_4182_2DB15E595EAE.toolTip = Schließen
+IconButton_4AEABA7C_5C03_9B6F_41B9_85DCA69710EC.toolTip = Fullscreen
 
 ## Media
 
