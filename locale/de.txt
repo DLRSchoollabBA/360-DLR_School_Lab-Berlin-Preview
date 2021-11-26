@@ -73,7 +73,7 @@ HTMLText_C294606F_D105_DC2F_41B1_385EF4E172F7.html = <div style="text-align:left
 HTMLText_E3C4117C_ECCC_2773_41C4_04240164340A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.1953896816684977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.2vmin;font-family:'Frutiger 45 Light';">In diesem Planeten-Simulationslabor werden Bedingungen eines anderen Planeten nachgestellt. Sogar die Umweltverhältnisse auf Himmelskörpern aus anderen Sonnensystemen können hier nachgeahmt werden. Die Forschenden am DLR verändern hier Temperatur, Druck, Luftfeuchtigkeit und sogar die Zusammensetzung der Atmosphäre. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.2vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.78vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1953896816684977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.2vmin;font-family:'Frutiger 45 Light';">Um zu verstehen, wie das Simulationslabor funktioniert, kannst du dich noch etwas umschauen.</SPAN></SPAN></DIV></div>
 
 ### Label
-Label_4F23AC42_5B96_F003_41D0_092B72BA5CC3.text = Bananen auf Weltreise
+Label_4F23AC42_5B96_F003_41D0_092B72BA5CC3.text = Das ist ein Testfenster!
 Label_4F97A20E_5B96_D000_41BB_71661EA10B0D.text = Modul „Sehen mit Augen und Kameras“
 
 ### Tab Panel
