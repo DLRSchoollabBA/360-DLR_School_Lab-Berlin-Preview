@@ -1,4 +1,8 @@
 {
+ "name": "DLR_School_Lab-Online",
+ "start_url": "index.htm",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "sizes": "150x150",
@@ -36,9 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
- "display": "fullscreen",
- "background_color": "#FFFFFF",
- "name": "DLR_School_Lab-Online",
  "theme_color": "#FFFFFF"
 }
