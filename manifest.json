@@ -1,7 +1,7 @@
 {
  "name": "DLR_School_Lab-Online",
- "start_url": "index.htm?installed=true",
  "display": "fullscreen",
+ "start_url": "index.htm",
  "icons": [
   {
    "sizes": "150x150",
